@@ -1,0 +1,1 @@
+In the data sheet [timseries](Data\Timeseriesdata\timeseries.csv) methods and data sets are listed, that are typically used as proxy data. 

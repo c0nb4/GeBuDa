@@ -1,0 +1,16 @@
+Source	Type	Methodology	Datasize 	Building types	Time resolution	Type	Link
+IDEAL Household Energy Dataset	Data	Measured	255	SFH	seconds (irregular)	E/H/W	https://www.nature.com/articles/s41597-021-00921-y
+e2watch	Data	Measured	>100	Other	60 min	E	https://stadt-aachen.e2watch.de/
+VDI4655	Method	Calculated	-	"SFH, MFH"	15 min	E/H/W/PV	https://www.vdi.de/richtlinien/details/vdi-4655-referenzlastprofile-von-wohngebaeuden-fuer-strom-heizung-und-trinkwarmwasser-sowie-referenzerzeugungsprofile-fuer-fotovoltaikanlagen
+Mittwollen	Data	Measured	1	SFH	days (irregular)		
+Schlemminger et. Al.	Data	Measured	38	SFH	10 seconds		
+Canet et. Al.	Data	Calculated	"34,753"	SFH	30 min		
+ComStock/ResStock Analysis Tool	Data	Calculated	">500,000"	"SFH, Other"	15 min		
+Heitkoetter et. Al.	Data	Calculated	729	"SFH, MFH"	15 min		
+Shao et. Al.	Method	Calculated	-	SFH	1 min		
+nPro	Tool	Calculated	-	"SFH, MFH, Other"	60 min		
+Murray et. Al.	Data	Calculated		"SFH, MFH, Other"	60 min		
+Living Lab	Data	Measured	100	SFH	60 min		
+SRLS	Tool	Calculated	-	SFH	60 min		
+openMeter	Data	Measured	"2,762"	Other	15 min		
+WP Monitor	Data	Measured	3	SFH	1 min		
