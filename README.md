@@ -1,2 +1,3 @@
 # GeBuDa
-German Building Data 
+
+Collection of German Building Data. 
